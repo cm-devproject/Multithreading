@@ -1,0 +1,9 @@
+# Ignore Maven build output
+target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Mac / Linux
+.DS_Store
